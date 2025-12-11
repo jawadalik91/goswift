@@ -1,0 +1,41 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+goswift
+goswift.exe
+
+# Build artifacts
+/dist/
+bin/
+build/
+
+# Go build cache
+*.test
+*.out
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage files
+coverage.txt
+coverage.out
+
+# Temporary files
+tmp/
+*.tmp
+
+# Dependency vendor directory (if you vendor deps)
+vendor/

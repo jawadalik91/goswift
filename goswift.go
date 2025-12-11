@@ -2,7 +2,7 @@ package goswift
 
 import (
     "net/http"
-    "github.com/thejawad/goswift/internal/router"
+    "github.com/jawadalik91/goswift/internal/router"
 )
 
 // App is the main application object

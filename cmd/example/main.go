@@ -2,8 +2,8 @@ package main
 
 import (
     "fmt"
-    "github.com/thejawad/goswift/internal/router"
-    "github.com/thejawad/goswift"
+    "github.com/jawadalik91/goswift/internal/router"
+    "github.com/jawadalik91/goswift"
 )
 
 func main() {

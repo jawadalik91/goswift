@@ -19,7 +19,7 @@
 ## 4. Reporting
 If you encounter behavior violating this code, please open a confidential issue or contact:
 
-**maintainer: thejawad (GitHub)**
+**maintainer: jawadalik91 (GitHub)**
 
 ## 5. Enforcement
 - Violations may result in warnings or bans

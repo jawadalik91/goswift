@@ -15,7 +15,7 @@ This guide will help you get started.
 ## ⚙️ Project Setup
 
 ```bash
-git clone https://github.com/thejawad/goswift.git
+git clone https://github.com/jawadalik91/goswift.git
 cd goswift
 go mod tidy
 ```
